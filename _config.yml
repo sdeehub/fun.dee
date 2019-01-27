@@ -1,17 +1,17 @@
 
-title: Karna
+title: Fun.Dee
 desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+url: https://sdeehub.github.io/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: "/fun.dee"
 full-version: "http://webjeda.com/karna-full/"
 
 sass:
     style: compressed
 
-  
+
 #optimization
 #compress.html
 compress_html:
@@ -35,11 +35,11 @@ disqus-shortname: webjeda-demo
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
-api-token:   
+api-token:
 
 include: [_pages]
 version: 0.8
 
-plugins: 
+plugins:
     - jekyll-paginate
     - jekyll-seo-tag
